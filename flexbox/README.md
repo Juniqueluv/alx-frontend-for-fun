@@ -65,4 +65,4 @@ Read or watch:
 ---
 
 ## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
+* **Olajumoke Ogunleke** - [Juniqueluv](https://github.com/juniqueluv)
