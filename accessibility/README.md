@@ -60,4 +60,4 @@ Read or watch:
 ---
 
 ## Author
-* **Olajumoke Ogunleke** - [Mahiuha](https://github.com/juniqueluv) - [twitter:speech_balloon:](https://twitter.com/Juniqueluv)
+* **Olajumoke Ogunleke** - [Juniqueluv](https://github.com/juniqueluv) - [twitter:speech_balloon:](https://twitter.com/Juniqueluv)
