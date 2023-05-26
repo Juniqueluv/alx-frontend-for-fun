@@ -60,4 +60,4 @@ Read or watch:
 ---
 
 ## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha) - [twitter:speech_balloon:](https://twitter.com/Joseph_Mahiuha)
+* **Olajumoke Ogunleke** - [Mahiuha](https://github.com/juniqueluv) - [twitter:speech_balloon:](https://twitter.com/Juniqueluv)
